@@ -3,3 +3,30 @@
 		AWS - By 15th Dec, 2024
 		Microservices  - 20th Dec, 2024
 		DSA - 4 questions a day everyday
+
+8th Dec, 2024
+-------------
+		Bhai ab bs infosys me ho jaae anyhow with a 16-17 lpa.
+		
+		- Java basic codes and all.
+		- Java Springboot project with Deployment and all.
+		- How to connect springboot project with DataBase.
+				
+		- How to connect multiple databases 
+Yr mujhe bahut tention hota hai didi jijaji ko leke, but abhi hmko yeasab kuch nahi sochna hai, bs kaam karna hai knud pe, bhahwaan ke bharose chor dete hai ab hm sab kuch.
+
+9th Dec, 2024
+-------------
+		Everyday will be like, please ab mujhe jaane do yr, but I will be like utilize each and every minutes.
+		
+		- https://tcsglobal.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/learn/lecture/43977992#overview
+		
+		75 hours
+		- I have to complete it anyhow till 20th Dec, 2024
+		- Spring Security
+		- Junit Testing and Mockito.
+		- AWS 
+Note - One biggest thing that happened to me today is that I have pleased to leave my Bad Habits.
+
+			
+		
