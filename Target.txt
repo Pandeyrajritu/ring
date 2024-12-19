@@ -6,14 +6,13 @@
 
 8th Dec, 2024
 -------------
-		Bhai ab bs infosys me ho jaae anyhow with a 16-17 lpa.
+		Bhai ab bs infosys me ho jaae anyhow with a 18-20 lpa.
 		
 		- Java basic codes and all.
 		- Java Springboot project with Deployment and all.
 		- How to connect springboot project with DataBase.
 				
 		- How to connect multiple databases 
-Yr mujhe bahut tention hota hai didi jijaji ko leke, but abhi hmko yeasab kuch nahi sochna hai, bs kaam karna hai knud pe, bhahwaan ke bharose chor dete hai ab hm sab kuch.
 
 9th Dec, 2024
 -------------
@@ -27,6 +26,91 @@ Yr mujhe bahut tention hota hai didi jijaji ko leke, but abhi hmko yeasab kuch n
 		- Junit Testing and Mockito.
 		- AWS 
 Note - One biggest thing that happened to me today is that I have pleased to leave my Bad Habits.
+Enrolled in a code Decode course. Haan to multiple courses me enroll kr liya to kya hua? One need to open 80 channels to make a channel successfull.
 
-			
+		- Spring Security like JWT and Auth 2 is important and a thing to be practiced.
+		- JUNIT and Mockito is things to be mastered.
+		- RestFull web Services and Microservices to be known and completed.
+		- Atleast 5 projects to be build end to end.
+		- Practice all Java related problems, making this a habit and to be practiced everyday.
 		
+								+++++++++++++++++++++++++++++++++++++
+								
+		- Apache Kafka will be an addon to your skills.
+		
+		- 10 to 15 hours of code everyday unitll I get a job, this way I will be able to grasp a high paying job. Thoda moda karne se nahi hoga. Real development karna padega aur uske liye time dena padega without worrying. Do some real and Actual work.
+		
+My Inprogress Tasks
+
+		- AWS Udemy
+		- Project 1 - Ecommerce Udemy 75 hours - Java Spring Boot: Professional eCommerce Project Masterclass.
+		- Project 2 - Code Decode Udemy Food delivery app - [NEW] Master Spring Boot Microservice & Angular K8s CICD AWS
+		- Some SQL interview Questions 
+		- Interview Bit Java Questions
+		- AWS interview questions.
+		- DSA C++ Data Structures & Algorithms + LEETCODE Exercises
+		- Master the Coding Interview: Data Structures + Algorithms
+		- Target atleast 500_ problems in 90 days i.e. before february ends.
+
+10th Dec, 2024
+--------------
+		- This year 2025 will be the last year of Struggle.
+		- Ek ham hi hai jo kar sakte hai, isliye hm gadmasti nahi kar sakte hai.
+		- Aajh ke is online yug me sab kuch bahuuuuuuuuuuuuuuuuuuuuuuuut jaldi kiya ja sakta hai, so don't think like isme to itna time lagega and usme to utna time lagega. Do it faaaaaaaaaaaaaaaast ASAP.
+		- Haan thoda time lagega development me, that is fine since you have to manually do it.
+		- Enrolled in 2 Udemy DSA courses.
+		
+		- DSA is not about a language, and so I will finish the course by 28th Feb, 2025.(Master the Coding Interview: Data Structures + Algorithms)
+		
+11th Dec, 2024
+--------------
+		- Read books of self development.
+			- Sapiens, The Psychology of money, Atomic Habits, How to win friends and Influence people, The Alchemist.
+		
+		- Kalyani asked me to showcase whatever I know you know. Also I will try to inculcate 360Degree feedback in my life that I gave to Soumyojit. There are lots of skills that are required to be acquired.
+
+		- Speed is also required Raj.
+		
+12 Dec, 2024
+------------
+		- I love DSA over development as I can solve multiple problems in a Day.
+		- No time wasteage.
+		
+		Add below lines
+		- AKSMIG-398 Done with the analysis. Switching priority to AKSMIG-331
+		- AKSMIG-331 - James pushed some large changes yesturday. Still there are some compilation errors on which I am working on. Working on Testcases failures too.
+		
+	- Bhai serious hoke pura Ultimate guide padhunga mere bhai aur saare chizon ka notes bana lunga
+		
+13th Dec, 2024
+--------------
+		- Badai karo, 
+		
+14th and 15th, Dec 2024
+-----------------------
+		- Mast annaparasan me nikal gya.
+		
+16th Dec, 2024
+--------------
+		- 2025 will be the year of smartwork.
+		- Nahi karunga yr laakhon ka nuksaan hai mera bhai
+
+17th Dec, 2024
+--------------
+		- 2X me dekh krke complete karenge sabko.
+		- Only I will watch videos.
+		- Yahi antar hai hamare me.
+		
+18th Dec, 2024
+--------------
+		- Jitna ham ladka ke sath rahenge na wahi acha hai
+
+19th Dec, 2024
+--------------	
+		- Sukhi jiwan chahte ho to yea sab band krke na ek diciplined jiwan jiyo, tm koi tata steel ya sarkari naukri me to ho nahi ki mauj karoge aur sab khud hi ho jaaega, you need long term hardwork with to achieve something best.
+		- Ek ajib sa fear feel hua halka halka, like how I will sustain in market.
+		- Kaise hoga sabkuch ek hi saal me sambhaw.
+		- You have no alternate but to work hard.
+		- Need jarurat of going to gym.
+		- Leave as you have left ur frds.
+		- Next time jab didi aae to mai is isthiti me na rahu, everything changed as per american standard(Ek acha sarwa suwidha sampanna ghar, saddi, jo log mujhe nicha samajhate hai wo mujhe pahchane itna yogya ho jaaun, New home, 25+ package, america/foreign, didi bhi khush rahe yr apne life me).
