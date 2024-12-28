@@ -1,12 +1,12 @@
 6th Dec, 2024
 -------------
-		AWS - By 15th Dec, 2024
-		Microservices  - 20th Dec, 2024
-		DSA - 4 questions a day everyday
+		AWS - By 15th Dec, 2024 - $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+		Microservices  - 20th Dec, 2024 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+		DSA - 4 questions a day everyday $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 8th Dec, 2024
 -------------
-		Bhai ab bs infosys me ho jaae anyhow with a 18-20 lpa.
+		Bhai ab bs infosys me ho jaae anyhow with a 18-20 lpa.  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 		
 		- Java basic codes and all.
 		- Java Springboot project with Deployment and all.
@@ -25,7 +25,7 @@
 		- Spring Security
 		- Junit Testing and Mockito.
 		- AWS 
-Note - One biggest thing that happened to me today is that I have pleased to leave my Bad Habits.
+Note - One biggest thing that happened to me today is that I have pleased to leave my Bad Habits. $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 Enrolled in a code Decode course. Haan to multiple courses me enroll kr liya to kya hua? One need to open 80 channels to make a channel successfull.
 
 		- Spring Security like JWT and Auth 2 is important and a thing to be practiced.
@@ -76,10 +76,6 @@ My Inprogress Tasks
 		- I love DSA over development as I can solve multiple problems in a Day.
 		- No time wasteage.
 		
-		Add below lines
-		- AKSMIG-398 Done with the analysis. Switching priority to AKSMIG-331
-		- AKSMIG-331 - James pushed some large changes yesturday. Still there are some compilation errors on which I am working on. Working on Testcases failures too.
-		
 	- Bhai serious hoke pura Ultimate guide padhunga mere bhai aur saare chizon ka notes bana lunga
 		
 13th Dec, 2024
@@ -114,3 +110,61 @@ My Inprogress Tasks
 		- Need jarurat of going to gym.
 		- Leave as you have left ur frds.
 		- Next time jab didi aae to mai is isthiti me na rahu, everything changed as per american standard(Ek acha sarwa suwidha sampanna ghar, saddi, jo log mujhe nicha samajhate hai wo mujhe pahchane itna yogya ho jaaun, New home, 25+ package, america/foreign, didi bhi khush rahe yr apne life me).
+		
+		- Aise lachar nahi rahna chahta hai to 10 DSA questions solve kro na har din.
+
+20th Dec, 2024
+--------------	
+		- I will make a crash course for 10 days.
+		- I will also help them to have sessions with some people.
+		- 
+		- Mastering DSA require continuity and Dencity. I will master it by 10 problems atleast daily for approx 3 months with smart startegy.
+23rd Dec, 2024
+--------------	
+Teach english
+If you wanna be in Heaven then you have to work like hell.
+
+
+	- Swapnil
+	- Grab a job.
+	- check for branch creation.
+	- Apne kaam pe focus karo yea log bs time hi pass karega.
+	- Vijay is on leave for a week.
+	- Gym
+	- Teach Java
+	
+	- learn new skills.{DSA, Cloud, sql, java, junit}
+	- Bahut hi nindh and thakaaan jaisa lag raha hai
+	
+24th Dec, 2024
+--------------	
+	- Start krde bhai.
+	
+26th Dec, 2024
+--------------	
+	- CodingDSA > DevelopmentTeaching > VideoEditingVideoCreation >	EnglishVdeoEditing.
+	
+27th Dec, 2024
+--------------
+	- DSA, Quantity over Quality.
+	- So 4 array problem solved.
+	-I am able to solve 4 problems as I can easy solve that much, But any how I will have to solve 10 problems atleast so that I can extend my limits.
+	- Today I will finish AWS anyhow.
+	- 10 din lagatar padhke apply karenge heavyly.
+28th Dec, 2024
+--------------	
+	- Dekh rahe ho yash kaise bada ho gya, tm jab so rahe the to wo bada ho raha tha, time bahut fast nikal raha hai, time is not going to wait. and hence
+		- ab wo soega aur ham bada honge.
+		
+	- Financially and Physically both way me growth chaiye.
+	- So work and workout.  
+	
+	- Let me set a target - MAANG - Mircrosoft, GOOGLE and AMAZON LONDON.
+	- Let me work day and NIGHT.
+	
+	- Before that let me grab a job of around 18-20 lpa atleast, so that mai aaram se fanng pe aaraam se dhyan du, mere finances balanced rahe.
+	
+	- Ab sab kuch band. bas yash ka chehra dikh raha hai.
+	
+29th Dec, 2024
+--------------	
