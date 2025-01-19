@@ -144,14 +144,15 @@ If you wanna be in Heaven then you have to work like hell.
 --------------	
 	- CodingDSA > DevelopmentTeaching > VideoEditingVideoCreation >	EnglishVdeoEditing.
 	
-27th Dec, 2024
+27th Dec, 2024 - 4 code of Array
 --------------
 	- DSA, Quantity over Quality.
 	- So 4 array problem solved.
 	-I am able to solve 4 problems as I can easy solve that much, But any how I will have to solve 10 problems atleast so that I can extend my limits.
 	- Today I will finish AWS anyhow.
 	- 10 din lagatar padhke apply karenge heavyly.
-28th Dec, 2024
+	
+28th Dec, 2024 - 0 code
 --------------	
 	- Dekh rahe ho yash kaise bada ho gya, tm jab so rahe the to wo bada ho raha tha, time bahut fast nikal raha hai, time is not going to wait. and hence
 		- ab wo soega aur ham bada honge.
@@ -166,5 +167,118 @@ If you wanna be in Heaven then you have to work like hell.
 	
 	- Ab sab kuch band. bas yash ka chehra dikh raha hai.
 	
-29th Dec, 2024
+29th Dec, 2024 - 
 --------------	
+
+	- I have started learning C++ as I have to do competative programming and more resources are available.
+	Link - https://tcsglobal.udemy.com/course/cpp-deep-dive/learn/lecture/13699402#overview
+	
+	- Also I have started CP from below link in Udemy.
+	Link - https://tcsglobal.udemy.com/course/competitive-programming-algorithms-coding-minutes/learn/lecture/26782836#overview
+	
+	- I had also started C++ Data Structures & Algorithms + LEETCODE Exercises
+	Link - https://tcsglobal.udemy.com/course/data-structures-algorithms-cpp/learn/lecture/30637548#overview
+	
+	- Also I have started DSA using Java via below link on Udemy.
+	Link - https://tcsglobal.udemy.com/course/java-data-structures-and-algorithms-masterclass/learn/lecture/27245290#overview
+	
+	- I have also started Mastering the System Design Interview
+	Link - https://tcsglobal.udemy.com/course/system-design-interview-prep/learn/lecture/28975314#overview
+	
+	- I had also started AWS Cloud Architecture For Java Spring Boot Developers
+	Link - https://tcsglobal.udemy.com/course/aws-java/learn/lecture/44882835#overview
+	
+	- Java Spring Boot: Professional eCommerce Project Masterclass
+	Link - https://tcsglobal.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/learn/lecture/43977996#overview
+	
+	- Master the Coding Interview: Data Structures + Algorithms
+	Link - https://tcsglobal.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12202018#overview
+	
+- Also the way to development is Java by Durga, Springboot and Microservices. All tools and Technology, AWS, Docker, Kuberneties, System Design. All tricky Java Interview Questions. Also master some imp. topic like, Junit and Mocking, Restfull web services, JWT and OAuth2, Microservices, Deployment and AWS and project coding. Master Regex and SQL. 
+
+So it's better ki filhal development pe focus karo and help Ragni as well to master it. 
+
+	1 - Java8 interview coding questions	- https://www.youtube.com/watch?v=ehOvBtQdAr4&list=PLkhF8zTRdky_dEoAQMcActWjbaVLLL5Wv - Complete them all (19)problems.
+	
+	2 - Java Interview coding questions	https://www.youtube.com/watch?v=k20wLXEVZr8&list=PLF9tovyahfL020hGgLIsRMZY4bfSLCFUa&index=142 - Complete them all (142)problems.
+	
+	
+	1] - 5
+	2] - 5
+Microone
+Micro1
+ktb
+
+01 Jan, 2025
+------------
+	- Yr kalse bahut pressure ban raha hai, bahut jaldi bahut paisa kamane ka, Ashu ka sagai bhi ho gya dec me, aur mere pass abhi tk ghar bhi nahi hai, itni salary me kya hi hoga, u need to move raj or make it to atleast 20 so that u can survive in the race.
+	
+	- But ya hopefully sab tk ho kaaega samae ke sath.
+	
+	Jan - Job change
+	
+02 Jan, 2025
+------------
+	- Bhagwaan bahut dar lag raha hai, kaise hoga 1.4 LPA.
+	15 interview questions + 8 videos a day(SBMS)
+	
+	I was able to take a class. Hope I will make it a habit.
+	I cant live without uploading videos.
+	My work
+
+03 Jan, 2025
+------------
+
+CTRL+ALT+L - form pom indendation
+
+	- A2Z DSA sheet
+	- Neetcode 150
+	- Leetcode 150 most asked interview questions.
+	- Leetcode top 100 liked questions.
+	
+	
+DP, Graph, BackTracking, Trees strivers playlist. Random questions of google, amazon, medium and hard from leetcode premium.
+
+LinkedIn premium and Naukri Primium, 250 connections every week use that.
+Save email address of people. Naukri - 30 days, serving notice period.
+
+
+04 Jan, 2025
+------------
+	- C++ basics I have learnt.
+	- SLT and Time Comlexity yet to learn.
+	
+05 Jan, 2025
+------------
+	- I have started DSA in CPP.
+	- Learn in silence.
+	
+06 Jan, 2025
+------------
+	- Kaam nahi karne se pressure banta hai so, try to complete it as soon as possible.
+	- Start applying.
+	- Mai daud bhale nahi paata hu utna jyada, but padh to itna dunga ki koi nahi padh paaega utna, roj 5 ghanta, without any fail DSA, System Design and DevelopmentTeaching. 
+	- Computer fundamentals will be addon.
+
+07 Jan, 2025
+------------
+	- Not sure.
+	
+08 Jan, 2025
+------------
+	- 
+	
+14 Jan, 2025
+------------
+	- Surya apni gati badalti hai aajh se, same as me.
+	- Bhai yahi pe param sukh hai,
+	- I will not stop untill FAANG.
+	- Actively Job khojo mere bhai.
+	- JWT, JUNIT and Mocking, Rest and Microservices. Real world project and AWS + Coding Java all Interview Questions.
+	- DSA in CPP every day 10 with Job.
+	- Job search actively.
+	
+16 Jan, 2025
+------------
+	- Nahi kisi ka a beta suha raha, na kisi ka kisi aur ka ding haakna, mai sabse bada sabse ameer and sabse best rahna chahta hu.
+	- Tim API ka config bacha hai bs
